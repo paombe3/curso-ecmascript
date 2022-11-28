@@ -11,5 +11,5 @@
   ],
   "author": "Paola Garcia <paombe3@gmail.com>",
   "license": "MIT",
-  "description": ""
+  "type": "module"
 }
